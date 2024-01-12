@@ -1,0 +1,8 @@
+@article{REPO054,
+    author = "Lin, Wanyu and Li, Baochun and Wang, Cong",
+    journal = "IEEE Transactions on Information Forensics and Security",
+    pages = "2936--2946",
+    title = "{Towards Private Learning on Decentralized Graphs With Local Differential Privacy}",
+    volume = "17",
+    year = "2022"
+}
